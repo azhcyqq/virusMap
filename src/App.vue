@@ -86,7 +86,7 @@ export default {
   },
   mounted(){
     this.getVirus()
-    this.getChinaMap()
+    // this.getChinaMap()
   }
 }
 </script>
